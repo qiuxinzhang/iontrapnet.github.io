@@ -18,5 +18,5 @@ deploy:
 env:
     global:
         # Coding Pages
-        - CO_REF:https://github.com/qiuxinzhang/qiuxinzhang.github.io 
+        - CO_REF:https://github.com/qiuxinzhang/qiuxinzhang.github.io.git 
         # 这里填入你的coding pages仓库地址 例如：git.coding.net/username/hugo.git  
